@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How To Download Videos From GoKollab Courses For Free Chrome Browser Extension Method
 
+<a href="https://www.youtube.com/watch?v=e3Dlc87QDmA" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/youtube-thumbnail-e3Dlc87QDmA.jpg" width="700px">
+</a>
+
 
 GoKollab Downloader is a browser extension for saving authorized GoKollab workspace videos and supported embedded course content as MP4 files.
 
@@ -27,9 +31,7 @@ This article converts the walkthrough into a direct setup and download guide.
 
 GoKollab Downloader scans supported GoKollab course pages and lists downloadable resources, including detected videos. The verified GitHub repository is:
 
-```text
-https://github.com/serpapps/gokollab-downloader
-```
+[serpapps/gokollab-downloader](https://github.com/serpapps/gokollab-downloader)
 
 ## Before You Start
 
